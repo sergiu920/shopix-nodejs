@@ -1,0 +1,26 @@
+{
+  "name": "shopix-nodejs",
+  "version": "1.0.0",
+  "description": "E-commerce application built with Node.js, Express, and PostgreSQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiu920/shopix-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sergiu920/shopix-nodejs/issues"
+  },
+  "homepage": "https://github.com/sergiu920/shopix-nodejs#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "pg": "^8.21.0"
+  }
+}
